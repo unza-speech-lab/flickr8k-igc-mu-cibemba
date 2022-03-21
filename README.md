@@ -1,1 +1,1 @@
-# bemba-flickr8k
+# flickr8k-muCibemba
